@@ -1,0 +1,536 @@
+.one{
+	display: flex;
+	justify-content: space-around;
+	padding: 10px 10px;
+}
+.a{
+	padding-right: 20px;
+}
+.two ul li{
+	display: inline;
+}
+.two ul a{
+	text-decoration: none;
+	padding-left:20px ;
+	padding-right: 20px;
+	color: black;
+}
+.charanya{
+	display: flex;
+	justify-content: space-between;
+}
+.container{
+	width: 80%;
+	margin: auto;
+}
+.bg{
+	background-color:#F6F5F5;
+	height: 75px;
+}
+.two{
+	padding: 10px 0px;
+}
+.yashu{
+	background-color: #EFEAEA;
+	display: flex;
+	justify-content: space-around;
+}
+.c{
+	outline:2px solid red;
+	width: 130px;
+	padding-left: 5px;
+	outline:2px solid red;
+}
+.c a{
+	text-decoration: none;
+	color: black;
+}
+.c :hover{
+	color:white;
+	background-color: red;
+}
+.three{
+	padding-top: 250px;
+	padding-left: 100px;
+}
+.four{
+	margin-top: 80px;
+}
+.three p{
+	font-size:50px;
+}
+.three{
+	margin-left: -300px;
+}
+.b p{
+	font-size: 20px;
+	margin-top: -40px;
+	margin-bottom:30px;
+}
+.two ul i{
+	font-size: 25px;
+}
+.two li:hover{
+	text-decoration: underline;
+	color: black;
+}
+.five{
+	text-align: center;
+	font-size: 50px;
+	padding: 20px 0px;
+}
+.x{
+	float: left;
+	width: 33%;
+	text-align: center;
+	height: 130px;
+	width: 300px;
+	background-color:#F7F5F5;
+	margin-right:40px;
+	margin-left: -20px;
+	padding: 100px 30px;
+
+}
+.y{
+	float: left;
+	width: 33%;
+	text-align: center;
+	height: 130px;
+	width: 300px;
+	background-color:#F7F5F5;
+	margin-right: 35px;
+	padding: 100px 30px;
+
+	
+}
+.z{	float: left;
+	width: 33%;
+	text-align: center;
+	height:130px;
+	width:300px;
+	background-color:#F7F5F5;
+	margin-right: 30px;
+	padding: 100px 30px;
+	margin-left: 30px;
+
+}
+.container{
+	width: 80%;
+	margin: auto;
+}
+.chitti i{
+	color:red;
+	font-size: 70px;
+	margin-top: -40px;
+}
+.chitti p{
+   font-size: 18px;
+}
+.clear{
+	content: "";
+	clear: both;
+}
+.seven{
+	display: flex;
+	justify-content: space-between;
+}
+.ten{
+	display: flex;
+	justify-content: space-around;
+}
+.e a{
+   text-decoration: none;
+   color: black;
+
+}
+.f a{
+   text-decoration: none;
+    color: black;
+
+}
+
+.g a{
+   text-decoration: none;
+    color: black;
+}
+.six{
+	padding-top: 250px;
+}
+.container{
+	width: 80%;
+	margin: auto;
+}
+.six p{
+   font-size: 40px;
+  margin-top: -10px;
+}
+.d{
+	font-size: 22px;
+}
+.eight{
+	margin-top: 160px;
+	margin-left: 280px;
+}
+.p e{
+	margin-left: -50px;
+}
+.s i{
+	padding-bottom: 60px;
+	margin-left:240px ;
+	padding: 25px 0px;
+	color: red;
+}
+.durga{
+	text-align: center;
+	background-color:#FBF8F8;
+    padding: 150px 0px;
+    margin-top: 150px;
+}
+.durga p{
+	font-size: 40px;
+}	
+.durga a{
+	text-decoration: none;
+	color: gray;
+}    
+.durga a:hover{
+	text-decoration: underline;
+	color:red;
+	background-color: red;
+}
+.chintu{
+	margin-top: 150px;
+}
+.reddy{
+	display: flex;
+	justify-content: space-around;
+}
+.joheth{
+	padding-top: 250px;
+	padding-left: 100px;
+}
+.jo{
+	font-size: 40px;
+}
+.he{
+	font-size: 22px;
+	color:gray ;
+}
+.th{
+	font-size: 17px;
+}
+.th h3{
+	outline:2px solid red;
+	width: 150px;
+	padding: 10px ;
+	padding-left: 20px;
+
+}
+.th a{
+	text-decoration: none;
+	color: black;
+}
+.th h3:hover{
+	color:white;
+	background-color: red;
+}	
+.yasu{
+	margin-top: 150px;
+}
+.yas a{
+    text-decoration: none;
+}
+.yas{
+	height:480px;
+	width: 600px;
+	background-color:#E8E7E7;
+	margin-top: 150px;
+	text-align: center;
+	padding-top: 120px;
+}
+.char{
+	display: flex;
+	justify-content: space-around;
+}
+.yas p{
+     font-size: 30px;
+     margin-top: 5px;
+}
+.yas h3:hover{
+	color: red;
+	text-decoration: underline;
+}
+.yas h3{
+	color:#A8A8A8;
+}
+.pardhu{
+	margin-top: 150px;
+}
+.pa{
+	font-size: 40px;
+}
+.rd{
+	color:#4E4E4E;
+}
+.hu p{
+	font-size: 17px;
+}
+.hu a{
+	text-decoration: none;
+	color: black;
+}
+.chinni{
+	display: flex;
+	justify-content: space-around;
+}
+.neeraj{
+	display: flex;
+	justify-content: space-around;
+	margin-top: 150px;
+}
+.nee{
+	margin-right: 10px;
+}
+.raj{
+    margin-left:20px;
+}
+.nee p{
+	position: absolute;
+	top: 4670px;
+	right:250px;
+}
+.raj p{
+	position: absolute;
+	top: 4670px;
+	right:580px;
+}
+.n{
+	position: absolute;
+	top: 20px;
+	right:40px;
+}
+.hu h3{
+	outline:2px solid red;
+	width: 25%;
+	padding: 10px;
+}
+.hu h3:hover{
+	color: white;
+	background-color: red;
+}
+.chi{
+	margin-top: 140px;
+	text-align: center;
+	font-size: 40px;
+	margin-bottom: 100px;
+}
+.cha{
+	float:left ;
+	width: 33%;
+}
+.ran{
+	float:left ;
+	width: 33%;
+}
+.ya{
+	float:left ;
+	width: 33%;
+}
+.container{
+	width: 80%;
+	margin: auto;
+}
+.dur p{
+	position: absolute;
+	bottom: -4680px;
+	left: 300px;
+	color: black;
+}
+.ga p{
+	position: absolute;
+   bottom:-4700px;
+	left: 320px;
+	color: black;
+}
+.raji{
+	padding: 70px 0px;
+	font-size: 50px;
+	text-align: center;
+
+}
+.pre p{
+	position: absolute;
+	bottom: -4680px;
+	left: 660px;
+	color: black;
+}
+.ma p{
+	position: absolute;
+	top: 5400px;
+	left: 690px;
+	color: black;
+}
+.prasa p{
+	position: absolute;
+	top:5380px;
+	right: 320px;
+	color: black;
+}
+.nna p{
+	position: absolute;
+	top:5400px;
+	right: 350px;
+	color: black;
+}
+.container{
+	width: 80%;
+	margin: auto;
+}
+.chiti{
+	text-align: center;
+	font-size: 45px;
+	padding: 70px 0px;
+}
+.mahe{
+ display: flex;
+ justify-content:space-evenly;
+}
+.roja{
+	display: flex;
+	justify-content: space-evenly;
+}
+.dev{
+	display: flex;
+	justify-content: space-evenly;
+	margin-top: 40px;
+}
+.chara{
+	padding-top: 70px;
+}
+.chara p{
+	font-size: 40px;
+}
+.chu a{
+	text-decoration: none;
+	color: black;
+}
+.chu p:hover{
+	color: red;
+}
+.vd{
+	display: flex;
+	justify-content: space-around;
+}
+.dv{
+	margin-left: -200px;
+}
+.yaswitha{
+	margin-top: 120px;
+	display: grid;
+	grid-template-columns: 39% 39%;
+	margin-right: -500px;
+}
+.yaswitha h3{
+	outline:2px solid red;
+	width: 150px;
+	height: 30px;
+	margin-top: 130px;
+	padding: 5px 5px;
+	margin-left: -300px;
+}
+.yaswitha h3:hover{
+		color: white;
+		background-color: red;
+		
+}
+.yaswitha  a{
+		text-decoration: none;
+		color: black;
+}
+
+.satish{display: flex;
+justify-content: space-evenly;
+top:7500px;
+background-color: whitesmoke;
+width:1500px;
+height:200px;
+padding-top: 70px;
+
+}
+.viraj a input[type="submit"]{border:3px solid black;
+padding: 5px 7px;}
+.viraj{padding-left: 250px;
+font-size: 20px; 
+}
+.viraj input[type="submit"]:hover{background-color: black;
+color:white;}
+.nandan{display: grid;
+grid-template-columns: 25% 25%;
+padding-left: 20px;
+}
+.jaya{
+	margin-left: -80px;
+}
+.naveen{
+	margin-left: 50px;
+	margin-top: -50px;
+
+}
+.yashna{
+	margin-left: 100px;
+	margin-top: -50px;
+	
+}
+.viraj{
+	margin-top: -30px;
+	margin-left: -200px;
+}
+.naveen a{
+	text-decoration: none;
+	color: black;
+}
+.yashna a{
+	text-decoration: none;
+	color: black;
+}
+.yashna a:hover{
+	color: red;
+}
+.naveen a:hover{
+	color: red;
+}
+
+
+@media screen and (min-width:320px)and(max-width:468px)
+{
+.one{
+	display: block;
+
+	padding: 10px 0px;
+}
+.a{
+	padding-right:5px;
+}
+.two ul li{
+	display:inline;
+}
+.two ul a{
+	text-decoration: none;
+	padding-left:5px ;
+	padding-right:5px;
+	color: black;
+}
+.charanya{
+	display: block;
+}
+.container{
+	width: 80%;
+	margin: auto;
+}
+.bg{
+	background-color:#F6F5F5;
+	height: 75px;
+}
+.two{
+	padding: 10px 0px;
+}
